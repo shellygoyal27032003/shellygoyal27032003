@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./styles/adoption.css">
+    <title>Animal Adoption</title>
+</head>
+<body>
+    <div class="container">
+        <section id="adoption">
+            <h1 >Animal Adoption</h1>
+            <p>Animal adoption is a wonderful way to give a deserving animal a loving forever home. By adopting a pet, you not only enrich your life but also save a life and make a positive impact on animal welfare.
+                
+Animal adoption is more than just bringing a pet into your home; it's a heartfelt commitment to providing love, care, and a forever family to animals in need. When you choose to adopt, you're offering a second chance to an animal who may have faced hardship or abandonment. It's a beautiful act of compassion that not only transforms the life of the adopted animal but also enriches your own life in countless ways.
+            </p>
+            <div class="image_1_container">
+            <img src="https://a-z-animals.com/media/2022/05/Dogs-with-signs-hoping-to-be-adopted.jpg"height="200"/>
+            </div>
+            <h2><u>Why Adopt?</u></h2>
+            <ul>
+                <li><strong>Save Lives:</strong> By adopting from shelters or rescue organizations, you help save the lives of animals that are in need of loving homes.</li>
+                <li><strong>Find Your Perfect Match:</strong> Shelters and rescues have a variety of animals available for adoption, allowing you to find the perfect pet that fits your lifestyle and preferences.</li>
+                <li><strong>Companionship:</strong> Adopted pets make loving and loyal companions. They bring joy, laughter, and unconditional love into your life.</li>
+                <li><strong>Support Animal Welfare:</strong> By adopting, you support organizations dedicated to animal welfare and help reduce pet overpopulation.</li>
+            </ul>
+            <div class="image_1_container">
+            <img src="https://images.theconversation.com/files/308378/original/file-20200102-11924-1tf1zpr.jpg?ixlib=rb-1.1.0&q=20&auto=format&w=320&fit=clip&dpr=2&usm=12&cs=strip" height="200"/>
+
+            </div>
+            <h3><u>How to Adopt</u></h3>
+            <p>Adopting a pet is a rewarding experience. Here are some steps to consider when adopting:</p>
+            <ol>
+                <li>Research: Consider the type of pet that best fits your lifestyle, energy level, and living situation.</li>
+                <li>Visit Shelters and Rescues: Take the time to visit local shelters and rescues to meet the animals available for adoption.</li>
+                <li>Meet and Greet: Spend time interacting with potential pets to see if there's a connection.</li>
+                <li>Adoption Process: Follow the adoption process outlined by the shelter or rescue organization, which may include filling out an application, providing references, and paying adoption fees.</li>
+                <li>Bring Your New Pet Home: Once approved, welcome your new pet into your home and provide them with love, care, and attention.</li>
+            </ol>
+            
+            <p><b>By choosing to adopt, you're not only changing the life of a pet but also enriching your own life with the love and companionship that only a rescued animal can provide.</b></p>
+        </section>
+    </div>
+</body>
+</html>
