@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="./styles/style.css">
+  <title>Animal Welfare</title>
+</head>
+<body>
+  <header>
+    <p>Animal Welfare</p>
+    <nav>
+      <ul class="nav_ele">
+        <li><a href="./Animal Adoption.html">Animal Adoption</a></li>
+        <li><a href="./donate.html">Donate</a></li>
+        <li><a href="./contact.html">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <section id="welfare" class="herosection">
+    <div class="container">
+      <h1 class="herosec_head">Welcome to Animal Welfare</h1>
+      <p class="herosec_head_p1">
+        Welcome to our sanctuary of kindness and advocacy, where every pawprint matters. Here, we embrace a community dedicated to protecting and celebrating animal welfare. Join us in creating a haven for compassionate hearts, where animals are honored, respected, and protected. Step into a world where love and advocacy intersect, as we champion the well-being of our furry friends. Together, we can make a difference and create a brighter future for animals everywhere. Welcome to a place where kindness knows no bounds and where our collective efforts pave the way for a more compassionate world.At our Animal Safety Hub, we are committed to promoting the welfare and well-being of animals in every aspect of their lives. Animal welfare encompasses various principles and practices aimed at ensuring that animals are treated with kindness, respect, and compassion.</p>
+      <div class="image_1_container">
+    <img  src="https://www.livelaw.in/h-upload/2021/09/18/1500x900_400801-straydogs.jpg"/>
+    
+  </div>
+  <h3><u>Our Principles of Animal Welfare</u></h3>
+  <ul>
+    <li><p>Humane Treatment:</p> We believe that all animals deserve to be treated with dignity and compassion, free from cruelty and exploitation.</li>
+    <li><p>Proper Care and Nutrition:</p> It is essential to provide animals with adequate shelter, nutrition, and medical care to ensure their physical and emotional well-being.</li>
+    <li><p>Prevention of Cruelty:</p> We advocate for the prevention of animal cruelty and abuse through education, awareness, and enforcement of laws and regulations.</li>
+    <li><p>Protection of Natural Habitats:</p> Preserving and protecting natural habitats is vital for the survival and well-being of wildlife species and ecosystems.</li>
+    <li><p>Promotion of Responsible Ownership:</p> Encouraging responsible pet ownership through education, spaying/neutering, and adoption helps reduce pet overpopulation and homelessness.</li>
+  </ul>
+  <div class="image_1_container">
+    <img src="https://www.shutterstock.com/image-photo/little-kitten-sitting-on-street-260nw-2034908213.jpg"height="200"/>
+    <img src="https://themeghalayan.com/wp-content/uploads/2023/09/Copy-of-Website-Picture-Size-2023-09-24T090648.040.jpg" alt="">
+
+    </div>
+    <h3><u>How You Can Help</u></h3>
+    <p>There are many ways you can contribute to animal welfare:</p>
+    <ul>
+        <li>Adopting pets from shelters or rescue organizations</li>
+        <li>Volunteering your time at animal shelters or wildlife rehabilitation centers</li>
+        <li>Supporting organizations and campaigns dedicated to animal welfare</li>
+        <li>Reporting cases of animal abuse or neglect to the appropriate authorities</li>
+        <li>Spreading awareness and educating others about the importance of animal welfare</li>
+    </ul>
+    </div>
+    
+</section>
+
+<br>
+  <footer>
+    <p>&copy; 2024 Animal Welfare</p>
+    <p>Made With 💖 by Nidhi mishra and Palak goyal</p>
+  </footer>
+</body>
+</html>
